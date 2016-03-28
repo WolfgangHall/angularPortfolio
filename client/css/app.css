@@ -1,0 +1,14 @@
+body {
+  margin-top: 50px;
+}
+
+.jumbotron{
+  background: url("http://i1377.photobucket.com/albums/ah54/WolfgangHall/daa6e78c-32b4-49f9-a126-a1e27a450359_zpsv1s64spg.jpg"); 
+  background-size:contain;
+  background-size: cover;
+  width: 100%;
+  height: 620px;
+  border: 1px solid;
+  text-align: center;
+
+}
